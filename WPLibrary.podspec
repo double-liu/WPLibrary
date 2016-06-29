@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
     s.source_files = 'WPLibrary/WPLibrary/**/*.{h,m,swift}'
     s.requires_arc = true
     s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-    s.dependency 'SwiftyJSON', '~> 2.3.2'
-    s.dependency 'SwiftString', '~> 0.5'
+    s.dependency 'SwiftyJSON'
+    s.dependency 'SwiftString'
 end

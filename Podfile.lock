@@ -3,8 +3,8 @@ PODS:
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
-  - SwiftString (~> 0.5)
-  - SwiftyJSON (~> 2.3.2)
+  - SwiftString
+  - SwiftyJSON
 
 SPEC CHECKSUMS:
   SwiftString: ec9c31c55b2aa147a1154f5f5f8483dc71e3165f

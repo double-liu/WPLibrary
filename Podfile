@@ -5,8 +5,8 @@ platform :ios, '8.0'
 use_frameworks!
 
 target 'WPLibrary' do
-pod 'SwiftyJSON', '~> 2.3.2'
-pod 'SwiftString', '~> 0.5'
+pod 'SwiftyJSON'
+pod 'SwiftString'
 
 end
 
